@@ -1,0 +1,20 @@
+"101 Apartments at Beechwood Court, STILLORGAN ROAD, COUNTY DUBLIN"	CoDublin	43589000	SecondHand Property
+"128 Apartments at Northern Cross, Malahide Road"	D17	39607000	SecondHand Property
+"A1-A7  A9  B1-27  C1-40  D1-23, RICHMOND GARDENS, RICHMOND AVENUE"	D3	34515141	SecondHand Property
+"67 Apartments at 21 Corrig Road, Time Place, SANDYFORD"	D18	27203000	SecondHand Property
+"1 WOLFE TONE LOFTS, WOLFE TONE ST, "	D1	22008000	SecondHand Property
+"Xavier Court, 21-25 Sherrard Street Upper, 21 25 SHERRARD ST UPPER "	D1	15002000	SecondHand Property
+"39 Apartments at  HEYWOOD COURT, NORTHWOOD, SANTRY"	D9	12069000	SecondHand Property
+"24-60, Shackleton Hall, Shackleton Park"	CoDublin	10423909	NewProperty
+"32  34-61  BELVILLE COURT, JOHNSTOWN RD, CABINTEELY 8"	CoDublin	10394000	SecondHand Property
+"2-4 WILTON PLACE, "	D2	7315000	SecondHand Property
+"APT 8, THE GARDEN HOUSE, WATERFALL AVE"	D3	6750000	SecondHand Property
+"49 AILESBURY RD, BALLSBRIDGE, "	D4	6750000	SecondHand Property
+"50  51  53 54  56-69, Block 3  Juliet Square, St Edmund's Park"	D20	6738000	SecondHand Property
+"1-2  5-7  9-20  24  26-36, Russell Court, Feltrim Road"	D24	6584000	SecondHand Property
+"Block 1 and Block 2, Belleville, Castleknock"	D7	5791178	SecondHand Property
+"THE GREY GABLES, 34A GILFORD ROAD, SANDYMOUNT"	CoDublin	5425000	SecondHand Property
+"12 Apartments at SPENCER HOUSE, CUSTOM HOUSE SQ, "	D1	5351000	SecondHand Property
+"29 TEMPLE RD, DARTRY, "	D6	4800000	SecondHand Property
+"3 4 6-8 12 13 15 19 21-24, 26-28 36 37 39-41  46 & 47, GRAVEL WALK APT"	D7	4250000	SecondHand Property
+"6 CLYDE RD, BALLBRIDGE CITY"	D4	4164000	SecondHand Property
